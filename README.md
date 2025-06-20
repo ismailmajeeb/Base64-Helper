@@ -31,13 +31,13 @@ You can install this extension in Brave, Google Chrome, or any other Chromium-ba
 
 1. **Download the Repository**: Download this project from GitHub, preferably by cloning the repository or downloading the ZIP file.
 
-    ```bash
-    git clone [https://github.com/ismailmajeeb/Base64-Helper.git](https://github.com/ismailmajeeb/Base64-Helper.git)
-    ```
+   ```bash
+   git clone https://github.com/ismailmajeeb/Base64-Helper.git
+   ```
 
 2. **Navigate to Extensions**: Open your browser and go to the extensions page.
-    - **Brave**: `brave://extensions`
-    - **Chrome**: `chrome://extensions`
+   - **Brave**: `brave://extensions`
+   - **Chrome**: `chrome://extensions`
 3. **Enable Developer Mode**: In the top-right corner of the extensions page, toggle on "Developer mode".
 4. **Load the Extension**: Click the "Load unpacked" button that appears on the top-left.
 5. **Select the Folder**: In the file selection window, navigate to and select the folder containing this project's code (the one with `manifest.json`).
